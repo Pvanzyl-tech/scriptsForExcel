@@ -5,7 +5,7 @@
 
 
 
-### how to use
+### How to use
 ### **Windows**
 
 Start by enabling develooper tab on your excel right click home then "customize ribbon"
